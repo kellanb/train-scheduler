@@ -1,0 +1,17 @@
+body {
+  background-image: url(../images/small_steps.png);
+  background-image: cover;
+}
+
+.jumbotron {
+  text-align: center; 
+  color: white;
+}
+
+.card {
+  margin-bottom: 30px;
+}
+
+.card-header {
+  color: white;
+}
